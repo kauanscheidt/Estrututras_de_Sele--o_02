@@ -47,7 +47,7 @@ public class atividade28 {
         }
 
         if (operacaoValida) {
-            System.out.println("\nResultado da operação: " + resultado);
+            System.out.println("Resultado da operação: " + resultado);
 
             long resultadoInteiro = (long) resultado;
             if (resultado == resultadoInteiro && resultadoInteiro % 2 == 0) {
