@@ -46,7 +46,7 @@ public class atividade30 {
             }
             valorTotal = precoBruto - desconto;
 
-            System.out.println("\nCombustível: Gasolina");
+            System.out.println("Combustível: Gasolina");
             System.out.println("Litros: " + litros);
             System.out.println("Desconto aplicado: " + df.format(desconto));
             System.out.println("Valor total a ser pago: R$ " + df.format(valorTotal));
