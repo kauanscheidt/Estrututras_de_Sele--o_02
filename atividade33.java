@@ -18,8 +18,6 @@ public class atividade33 {
         System.out.print("Questão 2: ");
         respostaCandidatoQ2 = input.next().toLowerCase();
 
-        System.out.println("\n--- Resultado da Prova ---");
-
         System.out.print("Q1: " + respostaCandidatoQ1 + " : ");
         if (respostaCandidatoQ1.equals(respostaCorretaQ1)) {
             System.out.println("Correto");
