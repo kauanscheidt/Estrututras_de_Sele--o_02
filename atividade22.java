@@ -16,7 +16,7 @@ public class atividade22 {
             int dezenas = (numero % 100) / 10;
             int unidades = numero % 10;
 
-            System.out.println("\nAnalisando o número " + numero + ":");
+            System.out.println("Analisando o número " + numero + ":");
 
             System.out.print(centenas);
             if (centenas == 1) {
